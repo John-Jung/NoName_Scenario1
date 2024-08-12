@@ -16,7 +16,7 @@
   
 ### 2. 토큰 가로채기 서버
 - Jadx로 JWT 로그인 함수 확인 후 Snippet
-- 
+  
 ![image](https://github.com/user-attachments/assets/d0796cde-83b2-4376-b134-45ad8549087e)
 - 탈취한 토큰을 수신
 
