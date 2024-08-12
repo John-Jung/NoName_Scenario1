@@ -4,7 +4,7 @@
 
 - ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 - ![JavaScript](https://img.shields.io/badge/javascript-ES6%2B-yellow)
-- ![jadx](https://img.shields.io/badge/jadx-v1.4.4-blue)
+- ![jadx](https://img.shields.io/badge/jadx-v1.5-blue)
 - ![Frida](https://img.shields.io/badge/frida-15.1.16-green)
 
 
